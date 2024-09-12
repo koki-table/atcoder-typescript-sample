@@ -1,4 +1,4 @@
-## atcoder-cli,online-judge-tools による AtCoder のローカル自動テスト用のリポジトリ
+## atcoder-cli と online-judge-tools を活用し、TypeScript で AtCoder の問題を解くためのローカル環境セットアップと自動テストのテンプレート
 
 
 ## 参考リンク
